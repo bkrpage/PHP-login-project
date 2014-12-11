@@ -155,7 +155,9 @@
 <?php
 	}
 ?>
-	
+	<footer>
+		<div id="github"> This site was made by Bradley Page using PHP and MySQLi. To see the working innards as well as my other projects, check out my <a href="https://github.com/bkrpage/php-Login-System">Github Repo</a>! </div>
+	</footer>
 
 </body>
 </html>

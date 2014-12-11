@@ -175,3 +175,26 @@ td{
 	padding: 2px 4px;
 }
 
+footer{
+	color: #444;
+	font-weight: 300;
+}
+
+footer a:link{
+	color: #FFBF00;
+	font-weight: 500;
+	font-size: 0.9rem;
+	
+}
+
+footer a:hover, footer a:active, footer a:visited{
+	color: #B18904;
+}
+
+#github{
+	width: 500px;
+	margin: 0 auto;
+	font-size: 0.9rem;
+	text-align: center;
+}
+
