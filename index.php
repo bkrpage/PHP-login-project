@@ -23,6 +23,8 @@
 	
 		<h1> Login </h1>
 
+		<p> Currently, due to my hostings Database restrictions, the website is not functioning on bkrpage.co.uk right now. However, 
+				there is a working version at <a href="http://student20352.201415.uk">my University sub-domain</a>.</p>
 <?php
 		if ($_GET['successfulReset']){
 			
@@ -45,6 +47,8 @@
 		if ($_GET['notLoggedIn']){
 			echo "<p class='warning'>You are not logged in</p>";
 		}
+		
+		
 			
 		if (!empty($_POST)){
 				
